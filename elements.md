@@ -1,7 +1,7 @@
 ---
 title: Links
 feature_text: |
-  #### Here are some of my projects
+  #### I'm super glad you're here!
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Thanks for passing by"
 aside: true
