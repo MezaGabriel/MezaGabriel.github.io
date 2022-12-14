@@ -1,23 +1,20 @@
 ---
-title: Elements
+title: Projects
 feature_text: |
-  A demo of Markdown and HTML includes
+  Here is a some of my projects
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Thanks for passing by"
 aside: true
 ---
 
-# Heading 1
+# Links
 
-## Heading 2
+## [Flutter Portfolio](https://github.com/MezaGabriel/Portfolio-Flutter "Flutter Portfolio")
+<small>In this section I made a list of very usefull MOBILE apps!! Feel free to check it out in all branches</small>
 
-### Heading 3
 
-#### Heading 4
 
-##### Heading 5
-
-###### Heading 6
+#### [A link](https://david.darn.es "A link")
 
 <small>A small element</small>
 
