@@ -91,7 +91,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-ES # Set the site language
-title: "Gabriel Esteban Meza" # Site name or title, also used in jekyll-seo-tag
+title: "Portfolio" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Here are some of the projects that I worked on throughout my career. Thanks for stopping by here, I hope we can meet soon" # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.linkedin.com/in/gabriel-esteban-meza-b0b175204/" # Site url, also used in jekyll-seo-tag
