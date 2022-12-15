@@ -207,14 +207,12 @@ body {
 // Links, icons and images
 a .icon {
   transition: fill .1s;
-  background-image: none;
   &:hover {
     fill: currentColor;
   }
 }
 
 .icon {
-  background-image: none;
   vertical-align: middle;
   width: 1.1em;
   height: 1.1em;
