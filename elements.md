@@ -1,13 +1,13 @@
 ---
 title: Links
 feature_text: |
-  #### I'm super glad you're here!
+  #### I'm glad you're here!
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Thanks for passing by"
 aside: true
 ---
 
 #### [Flutter Portfolio](https://github.com/MezaGabriel/Portfolio-Flutter "Flutter Portfolio")
-<small>In this section I made a list of very usefull MOBILE apps!! Feel free to check it out in all branches</small>
+<small>In this section I made a list of usefull Mobile Apps!! Feel free to check it out in all branches</small>
 
 

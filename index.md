@@ -4,10 +4,10 @@ feature_text: |
   ## Gabriel Esteban Meza
   A passionate Mobile Developer from Argentina
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Thanks for being here!! You want to know something about me? I'm a great partner, I love to work in a team, and also enjoy learning a lot. Don't loose the opportunity to follow me on LinkedIn so we can share together"
+excerpt: "Thanks for being here!! Do you want to know something about me? I'm a great partner, I love to work with others, and I also enjoy learning a lot. Don't loose the opportunity to follow me on LinkedIn so we can share together."
 ---
 
-Thanks for being here!! You want to know something about me? I'm a great partner, I love to work in a team, and also enjoy learning a lot. Don't loose the opportunity to follow me on LinkedIn so we can share together.
+Thanks for being here!! Do you want to know something about me? I'm a great partner, I love to work with others, and I also enjoy learning a lot. Don't loose the opportunity to follow me on LinkedIn so we can share together.
 
 {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/gabriel-esteban-meza-b0b175204/" color="#0366d6" %}{% include button.html text="GitHub" icon="github" link="https://github.com/MezaGabriel" color="#808080" %}{% include button.html text="Academic Training" link="https://drive.google.com/drive/folders/13JADiwYOl9pH5_FMRYsIF83YHku5Zdsn?usp=sharing" color="#ffa500" %} 
 
