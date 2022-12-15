@@ -8,6 +8,6 @@ aside: true
 ---
 
 #### [Flutter Portfolio](https://github.com/MezaGabriel/Portfolio-Flutter "Flutter Portfolio")
-<small>In this section I made a list of usefull Mobile Apps!! Feel free to check it out in all branches</small>
+<small>In this section I made a list of useful Mobile Apps!! Feel free to check it out in all branches</small>
 
 
