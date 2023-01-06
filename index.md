@@ -14,7 +14,7 @@ Thanks for being here!! Do you want to know something about me? I'm a great part
 
 - I’m currently working on **Android Native** and **Flutter**
 - I’m currently learning **Flutter & Dart**
-- All of my projects are available in this <a href="https://github.com/MezaGabriel" target="_blank" rel="noopener noreferrer">link</a>
+- All of my projects are available in this <a href="https://github.com/MezaGabriel?tab=repositories" target="_blank" rel="noopener noreferrer">link</a>
 - **Ask me about** Java, Kotlin, Android Studio, MVVM
 - Know about my experiences on <a href="https://drive.google.com/file/d/1MkNCgMYJsdnB4fhcKojyeysyc3Gz-ced/view?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
 - Contact me: **mez4.gabriel@gmail.com**
